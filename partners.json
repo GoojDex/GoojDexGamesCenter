@@ -1,0 +1,27 @@
+
+[
+    {
+        "image": "/images/partners/unblocked-games.png",
+        "link":"https://sites.google.com/games235.com/unblocked/"
+    },
+    {
+        "image": "/images/partners/slope-game.png",
+        "link":"https://slopegame.gitlab.io/"
+    },
+    {
+        "image": "/images/partners/car-games.png",
+        "link":"https://freecargames.github.io/"
+    },
+    {
+        "image": "/images/partners/sports-games.png",
+        "link":"https://sportsgames.gitlab.io/"
+    },
+    {
+        "image": "/images/partners/vseigru-min.png",
+        "link":"https://www.vseigru.net/"
+    },
+    {
+        "image": "/images/partners/yaksgames-min.png",
+        "link":"https://www.yaksgames.com"
+    }
+]
