@@ -1,6 +1,6 @@
 function getGamelist()
 {
-    fetch('games.json')
+    fetch('json/games.json')
     .then(response => response.json())
     .then(data => {
         var item = "";
@@ -19,7 +19,7 @@ function getGamelist()
 
 function getPartners()
 {
-    fetch('../partners.json')
+    fetch('..json/partners.json')
     .then(response => response.json())
     .then(data => {
         var item = "";
