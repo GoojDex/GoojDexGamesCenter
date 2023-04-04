@@ -1,6 +1,6 @@
 function getGamelist()
 {
-    fetch('json/games.json')
+    fetch('/GoojDexGamesCenter/json/games.json')
     .then(response => response.json())
     .then(data => {
         var item = "";
